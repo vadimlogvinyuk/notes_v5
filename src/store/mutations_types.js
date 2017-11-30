@@ -1,0 +1,7 @@
+export const ADD_NEW_USER   = 'ADD_NEW_USER'
+export const ADD_NOTE       = 'ADD_NOTE'
+export const OTHER_USER     = 'OTHER_USER'
+export const CHECK_BOX      = 'CHECK_BOX'
+export const SHARE_NOTES    = 'SHARE_NOTES'
+export const DELETE_ROW     = 'DELETE_ROW'
+export const COMPLETE       = 'COMPLETE'
